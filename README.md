@@ -1,2 +1,2 @@
-# config
-Config loader using c12 for loading liquid.config.js
+# `@liquidmd/config`
+Very simple config file loader for Liquid Markdown.
